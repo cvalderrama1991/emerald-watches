@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emerald-watches/static/css/main.61dd1a16.css",
+    "main.js": "/emerald-watches/static/js/main.dac6d333.js",
+    "index.html": "/emerald-watches/index.html",
+    "main.61dd1a16.css.map": "/emerald-watches/static/css/main.61dd1a16.css.map",
+    "main.dac6d333.js.map": "/emerald-watches/static/js/main.dac6d333.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61dd1a16.css",
+    "static/js/main.dac6d333.js"
+  ]
+}
